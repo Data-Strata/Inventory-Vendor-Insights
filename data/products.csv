@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,VendorID,UnitCost,UnitPrice
+1,Copper Pipe 3/4inch,Pipes,1,12.50,19.99
+2,Aluminum Elbow 90degree,Pipes,1,4.20,7.99
+3,PVC Pipe 1inch,Pipes,2,3.10,5.99
+4,Flexible Duct 25ft,Pipes,3,18.00,29.99
+5,Air Filter 16x20x1,Filters,2,3.00,6.99
+6,Air Filter 20x25x1,Filters,2,3.50,7.49
+7,HEPA Filter 16x25x4,Filters,7,12.00,22.99
+8,Carbon Filter Cartridge,Filters,8,9.50,17.99
+9,Digital Thermostat Basic,Controls,3,28.00,44.99
+10,Smart Thermostat WiFi,Controls,3,40.00,65.00
+11,Temperature Sensor,Controls,4,6.50,12.99
+12,Relay Control Board,Controls,5,14.00,26.50
+13,Pressure Switch,Controls,6,11.00,19.00
+14,Refrigerant R-410A 25lb,Refrigerants,9,110.00,159.99
+15,Refrigerant R-22 30lb,Refrigerants,9,185.00,245.00
+16,Refrigerant R-32 25lb,Refrigerants,9,120.00,169.00
+17,Refrigerant Recovery Cylinder,Refrigerants,10,75.00,110.00
+18,Refrigerant Leak Detector,Refrigerants,10,32.00,55.00
+19,Capacitor 40/5 MFD,Electrical,4,7.00,13.00
+20,Contactor 2-Pole 30A,Electrical,4,9.00,16.50
+21,Run Capacitor 35/5 MFD,Electrical,5,6.50,12.00
+22,Circuit Breaker 20A,Electrical,6,8.00,14.50
+23,Copper Wire Roll 100ft,Electrical,1,25.00,39.99
+24,Fan Motor 1/3 HP,Electrical,7,45.00,79.99
+25,Tool Kit - HVAC Maintenance,Tools,8,60.00,99.00
