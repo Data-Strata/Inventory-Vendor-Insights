@@ -130,6 +130,7 @@ The Power BI data model is organized into three logical layers:
 
 ## 📁 Repository Structure
 
+```text
 Data-Strata/
 │
 ├── README.md                          # Root README (project overview, KPIs, insights)
@@ -187,7 +188,7 @@ Data-Strata/
 │
 └── .gitignore                         # Ignores .pbix, temp files, local CSVs
 
-
+```
 
 ---
 
