@@ -1,3 +1,5 @@
+![Data_Strata Banner](Data_Strata_Banner.png)
+
 # 🧮 Data-Strata: Inventory & Vendor Insights Dashboard  
 
 > **End-to-end SQL + Power BI solution for inventory, vendor, and profitability insights — turning raw data into actionable business intelligence.**  
