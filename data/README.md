@@ -67,7 +67,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ✍️ Author
 
-**Mairilyn Yera Galindo (Pilyla)**  
-*Data-Strata Project — 2025*  
-🌐 [https://github.com/pilylay/Data-Strata](https://github.com/pilylay/Data-Strata)
+© 2025 Mairilyn Yera Galindo (mairilynyera-ds) | *Data-Strata Project*  
+Built with SQL Server + Power BI | Boca Raton, FL
+🌐 [https://github.com/Data-Strata](https://github.com/Data-Strata)
 
