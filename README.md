@@ -1,4 +1,5 @@
-![Data_Strata Banner](Data_Strata_Banner.png)
+
+![Data-StrataLogoCompact](https://github.com/user-attachments/assets/8a12ed24-a63b-44ad-aa19-d16f9437ccbb)
 
 # 🧮 Data-Strata: Inventory & Vendor Insights Dashboard  
 
